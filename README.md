@@ -1,5 +1,7 @@
 # jupyter_tf_dev
-Template for creating docker development containers using tensorflow and jupyter. Fully functional with VS Code (in fact, VS Code is recommended).
+Instantiations of common generative models for testing and playing with. Primarily based on the models shown in: 
+https://keras.io/examples/generative/
+
 
 To set up the docker environment, download the dockerfile and build the image with:
     docker build -t [environment_name] . 
