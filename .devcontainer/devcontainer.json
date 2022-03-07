@@ -8,8 +8,8 @@
 	],
 	"runArgs": [
         "--name", "my_project_jupyter_tf",
-        "--gpus", "all",
-        "--rm"
+        "--gpus", "all"
+        // "--rm"
     ],
 
 	"forwardPorts": [8888]
